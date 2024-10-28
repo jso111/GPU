@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/jso/Documents/GPUtest1/GPU/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/GPUroutines.dir/main.cpp.o -c /home/jso/Documents/GPUtest1/GPU/main.cpp",
+  "file": "/home/jso/Documents/GPUtest1/GPU/main.cpp",
+  "output": "CMakeFiles/GPUroutines.dir/main.cpp.o"
+},
+{
+  "directory": "/home/jso/Documents/GPUtest1/GPU/build",
+  "command": "/usr/bin/nvcc -forward-unknown-to-host-compiler   -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -rdc=true -c /home/jso/Documents/GPUtest1/GPU/GPUroutines.cu -o CMakeFiles/GPUroutines.dir/GPUroutines.cu.o",
+  "file": "/home/jso/Documents/GPUtest1/GPU/GPUroutines.cu",
+  "output": "CMakeFiles/GPUroutines.dir/GPUroutines.cu.o"
+},
+{
+  "directory": "/home/jso/Documents/GPUtest1/GPU/build",
+  "command": "/usr/bin/nvcc -forward-unknown-to-host-compiler   -g \"--generate-code=arch=compute_52,code=[compute_52,sm_52]\" -x cu -rdc=true -c /home/jso/Documents/GPUtest1/GPU/processKernel.cu -o CMakeFiles/GPUroutines.dir/processKernel.cu.o",
+  "file": "/home/jso/Documents/GPUtest1/GPU/processKernel.cu",
+  "output": "CMakeFiles/GPUroutines.dir/processKernel.cu.o"
+}
+]

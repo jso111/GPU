@@ -1,0 +1,3 @@
+/home/jso/Documents/GPUtest1/GPU/build/CMakeFiles/GPUroutines.dir
+/home/jso/Documents/GPUtest1/GPU/build/CMakeFiles/edit_cache.dir
+/home/jso/Documents/GPUtest1/GPU/build/CMakeFiles/rebuild_cache.dir
